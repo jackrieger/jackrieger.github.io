@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/base.scss"],"names":[],"mappings":"AAIA;EACE,YALgB;EAMhB,OALU;EAMV,aALS","sourcesContent":["$backgroundColor: #efefef;\n$bodyColor: #101010;\n$bodyFont: Arial;\n\nbody {\n  background: $backgroundColor;\n  color: $bodyColor;\n  font-family: $bodyFont;\n}\n"],"file":"main.css"}
